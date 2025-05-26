@@ -9,9 +9,9 @@ console.log(3
 console.log("Mayank")
 
 
-let name = "Mayank"
-let age = 18
-let isloggedIn = false
+let name = "Mayank"   //String 
+let age = 18          //number
+let isloggedIn = false //boolean
 let state = null
 
 // number => 2 to power 53
